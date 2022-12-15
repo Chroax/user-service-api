@@ -1,7 +1,7 @@
 package com.binar.userservice.dto;
 
 import com.binar.userservice.model.Roles;
-import jakarta.validation.constraints.NotEmpty;
+import javax.validation.constraints.*;
 import lombok.Data;
 
 @Data

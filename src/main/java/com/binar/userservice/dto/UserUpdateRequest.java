@@ -1,8 +1,6 @@
 package com.binar.userservice.dto;
 
-
-import jakarta.validation.constraints.Email;
-import jakarta.validation.constraints.Pattern;
+import javax.validation.constraints.*;
 import lombok.Data;
 
 import java.util.List;

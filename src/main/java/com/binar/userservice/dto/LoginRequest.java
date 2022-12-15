@@ -1,6 +1,6 @@
 package com.binar.userservice.dto;
 
-import jakarta.validation.constraints.NotEmpty;
+import javax.validation.constraints.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
