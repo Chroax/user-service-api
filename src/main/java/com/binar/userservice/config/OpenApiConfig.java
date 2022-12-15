@@ -57,7 +57,7 @@ public class OpenApiConfig {
         serverDev.setDescription("Main server for Dev");
 
         Server serverProd = new Server();
-        serverProd.setUrl("https://api-mticketing.up.railway.app/");
+        serverProd.setUrl("https://api-mticket-user-service.up.railway.app/");
         serverProd.setDescription("Main server for Production");
 
         servers.add(serverDev);
